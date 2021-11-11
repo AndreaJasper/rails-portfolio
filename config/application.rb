@@ -1,9 +1,6 @@
-require_relative "boot"
+require_relative 'boot'
 
-require "rails/all"
-
-require "view_component/engine"
-require "primer/view_components/engine"
+require 'rails/all'
 
 # Require the gems listed in Gemfile, including any gems
 # you've limited to :test, :development, or :production.
