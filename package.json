@@ -1,11 +1,17 @@
 {
   "name": "rails-portfolio",
+  "version": "0.1.0",
   "private": true,
-  "dependencies": {
-    "@rails/ujs": "^6.0.0",
-    "turbolinks": "^5.2.0",
-    "@rails/activestorage": "^6.0.0",
-    "@rails/actioncable": "^6.0.0"
+  "engines": {
+    "node": "10.x"
   },
-  "version": "0.1.0"
+  "dependencies": {
+    "@rails/actioncable": "^6.0.0",
+    "@rails/activestorage": "^6.0.0",
+    "@rails/webpacker": "^5.4.0",
+    "@rails/ujs": "^6.0.0",
+    "node": "^10.17.0",
+    "turbolinks": "^5.2.0",
+    "yarn": "^1.22.17"
+  }
 }
