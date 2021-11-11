@@ -94,3 +94,16 @@ a.btn {
     overflow: hidden;
     text-overflow: ellipsis;
 }
+
+.about,
+.contact {
+    margin: 60px 0;
+}
+
+.thumbnail {
+    max-height: 400px;
+}
+
+.bio {
+    padding: 40px;
+}
